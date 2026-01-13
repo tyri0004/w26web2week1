@@ -80,3 +80,14 @@ section img{
     margin: 0 15px 15px 0;
 
 }
+nav a{
+    color: azure; 
+    font-size: 1.2em;  /* ems are relative to the font size of the parent - 1.2 = 120% */ 
+    text-decoration: none; /* removes underline */
+
+}
+/* links have states and you can style using pseudoclasses  */
+
+nav a:hover{
+    color: fuchsia;
+}
