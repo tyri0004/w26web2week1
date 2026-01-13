@@ -50,9 +50,22 @@ table {
  /******************************************************************
                     Main Css Starts meow
 ********************************************************************/
+/* these styles will apply to your whole page */
+body{
+    max-width: 800px;
+    background-color: palevioletred;
+    /* to centre an element, use margin: 0 auto */
+    margin: 0 auto;
+}
 /* this will apply to all h1 tags in your html */
 h1{
    font-size: 32px; 
    font-weight: bold;
-   color: pink;
+   color: pink;   
+   /* the css box model contains three different areas
+        margin, border, and padding 
+        margin pusheselements
+   */
+   /* two values means top-bottom, left-right */
+   margin: 15px 0
 }
