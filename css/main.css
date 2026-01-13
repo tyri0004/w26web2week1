@@ -99,3 +99,8 @@ nav a:active{
 nav a:visited{
     color: pink;
 }
+/* style an id using # */
+#current-meow{
+    background-color: aliceblue;
+    color: pink;
+}
