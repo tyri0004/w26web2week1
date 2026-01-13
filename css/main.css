@@ -74,6 +74,7 @@ h1{
 
 section img{
     /* only scale one dimension of an image, width or height */
-    width: 10%;
-    
+    width: 20%;
+    float: left;
+
 }
