@@ -53,4 +53,5 @@ table {
 /* this will apply to all h1 tags in your html */
 h1{
    font-size: 32px; 
+   font-weight: bold;
 }
