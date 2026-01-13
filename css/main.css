@@ -46,5 +46,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-/* css reset ends */
-/* main css starts */
+
+ /******************************************************************
+                    Main Css Starts meow
+********************************************************************/
+/* this will apply to all h1 tags in your html */
+h1{
+   font-size: 32px; 
+}
