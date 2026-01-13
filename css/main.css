@@ -76,5 +76,7 @@ section img{
     /* only scale one dimension of an image, width or height */
     width: 20%;
     float: left;
+    /* four values means top, right, bottom, left */
+    margin: 0 15px 15px 0;
 
 }
