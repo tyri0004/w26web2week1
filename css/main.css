@@ -104,3 +104,8 @@ nav a:visited{
     background-color: aliceblue;
     color: pink;
 }
+section{
+    margin: 20px; 
+    border: 2px black solid;
+    padding: 15px;
+}
